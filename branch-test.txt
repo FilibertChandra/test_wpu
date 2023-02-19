@@ -2,3 +2,4 @@ Test to create branch
 Learn what is branch
 Compare the branch timeline
 Try merge conflict
+Edit branch try-1
