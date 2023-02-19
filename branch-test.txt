@@ -1,5 +1,6 @@
 Test to create branch
 Learn what is branch
 Try merge conflict
-Edit branch try-2
-try few commit (2)
+Edit branch try-1
+Try few commit
+
